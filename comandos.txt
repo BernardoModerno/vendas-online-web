@@ -1,1 +1,2 @@
 ###COMANDOS
+npm create vite@latest
